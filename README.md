@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Usage example of bootstrap ad bootstrap-loader together.
 `webpack.config.js` is generated thanks to `ng eject`. 
 
-Created to answer this question [HERE]().
+Created to answer this question [HERE](https://github.com/shakacode/bootstrap-loader/issues/217).
 
 ## Development server
 
