@@ -11,9 +11,17 @@ Created to answer this question [HERE](https://github.com/shakacode/bootstrap-lo
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Build
+## Build development
 
-Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Build production
+
+Run `npm run build --prod` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Build production + AOT
+
+Run `npm run build --prod --aot` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Running unit tests
 
